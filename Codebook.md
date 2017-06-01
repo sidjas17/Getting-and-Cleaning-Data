@@ -30,7 +30,7 @@
                   26  subject 26
                   27  subject 27
                   28  subject 28
-                  29  subject 29
+                  29  subject 29 
                   30  subject 30
 Activitys 
             The six activities that each person performed
