@@ -37,7 +37,7 @@ Activitys
                   WALKING
                   WALKING_UPSTAIRS
                   WALKING_DOWNSTAIRS,
-                  SITTING
+                  SITTING 
                   STANDING
                   LAYING
 tBodyAcc-mean()-X
