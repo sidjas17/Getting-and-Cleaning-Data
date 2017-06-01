@@ -8,6 +8,8 @@ A.Steps to reproduce this project
 
   3.Run the R script run_analysis.r. 
 
+
+
 B.Results produced
 
   1.Tidy dataset file tidydata.txt 
